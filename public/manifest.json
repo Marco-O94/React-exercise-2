@@ -1,0 +1,9 @@
+{
+  "short_name": "Search API app",
+  "name": "Search api",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
